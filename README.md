@@ -2,10 +2,11 @@
 <img src="/Gifs/Chicken-Charmer.gif" align="right" width="300">
 <br/>
 Hi everyone 👋! <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is one of my projects, "Box!". Actually, this is my first project I've completed. While working on this project, I was unaware of many game development concepts. So it was a difficult process for me. But despite this, I managed to learn many things and gain new experiences.<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is one of my projects, "Chicken Charmer". After an 8-week training I attended, I made this game in a gamejam organized by the organization that provided the training. And with this game i won the Gamejam.<br/><br/> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While making this game, I learned a lot about object-oriented programming, effective use of Unity, UI design and Project Management. <br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is a simple snake game. To make the game more interesting, I designed the chicken as the head of the snake and the chicks as the body of the snake. Instead of a simple snake bait, I tried to enrich the visuals of the game with various vegetables. And in order not to disturb the integrity of the game, I designed the environment as a farm.<br/><br/> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also uploaded this game to the store. If you want to review, give your opinion about the game  or comment, the link is below. 👇 <br/>
-### [Store Link](https://play.google.com/store/apps/details?id=com.GokhanGenc.Box)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you want to review, give your opinion about the game or comment you can reach me on my mail below. 👇<br/>
+### [Gokhan-Genc@outlook.com]()
+
 <h3 align="center">Have a great day with lots of code ✌.</h3>
