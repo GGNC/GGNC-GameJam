@@ -9,4 +9,4 @@ Hi everyone 👋! <br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you want to review, give your opinion about the game or comment you can reach me on my mail below. 👇<br/>
 ### [Gokhan-Genc@outlook.com]()
 
-<h3 align="center">Have a great day with lots of code ✌.</h3>
+<h3 align="center">Have a great day with full of code ✌.</h3>
